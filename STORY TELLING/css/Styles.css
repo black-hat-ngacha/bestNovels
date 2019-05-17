@@ -1,0 +1,35 @@
+body{
+background-color:#f4f4f4;
+font-family: Helvetica,sans-serif;
+background-image: url("/home/jack/Downloads/pile");
+}
+.box-1{
+	background-color: coral;
+	
+}
+.container{
+	background-color:coral;
+	width:500px;
+	margin: auto; 
+}
+.categories ul{
+padding:0;
+
+width: 160px;
+border:1px solid #555;
+}
+.categories li {
+display:inline;
+text-align: center;
+border-bottom: 1px solid #555;
+margin: 500;
+
+}
+.categories li a{
+	align:left;
+}
+
+.w3-bar w3-black{
+text-align: left;
+
+}
